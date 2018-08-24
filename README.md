@@ -1,2 +1,6 @@
 # hello-world
-Just one
+
+Hi Everyone!
+
+Cutie here, i like milktea and dancing,
+also i love dog. 
